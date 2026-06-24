@@ -1,1 +1,1 @@
-📦 **Nightly builds of [Ente apps](https://github.com/ente-io/ente)**
+📦 **Nightly builds of [Ente apps](https://github.com/ente/ente)**
